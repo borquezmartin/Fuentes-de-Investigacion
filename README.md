@@ -85,7 +85,8 @@ Patentes gratuitas online.
 [UE-Lex](https://eur-lex.europa.eu/homepage.html?locale=es):
 Derechos, leyes y tratados de la Union Europea
 
-[Ley Chile](https://www.leychile.cl/Consulta/homebasico)
+[Ley Chile](https://www.leychile.cl/Consulta/homebasico):
+Leyes Chilenas
 
 ## Páginas de Interés o Divulgación
 
