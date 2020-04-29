@@ -45,17 +45,34 @@ Libreria científica online
 
 ## Páginas de Patentes
 
-[The Lens](https://www.lens.org)
-
+[The Lens](https://www.lens.org): 
+Marcas o Patentes a nivel mundial.
 
 [WIPO](https://www.wipo.int/portal/en/index.html):
 World Intellectual Property Organization is the global forum for intellectual property (IP) services, policy, information and cooperation. We are a self-funding agency of the United Nations, with 193 member states.
 
 [Google Patents](https://patents.google.com)
 
+[INAPI](https://www.inapi.cl): 
+Instituto Nacional de Propiedad Industrial. Solicitudes de Patentes en Chile
+
+[USPTO](https://www.uspto.gov):
+United States patents and trademarket.
+
+[EPO](https://worldwide.espacenet.com/?locale=en_EP):
+European Patent Office.
+
+[J-PlatPat](https://www.j-platpat.inpit.go.jp):
+Industrial Property Digital Library, Japan.
+
+[FPO](http://www.freepatentsonline.com):
+Patentes gratuitas online.
+
 ## Páginas del Mercado y de Emprendimientos
 
-[Market Research](https://repositorio.uc.cl)
+[Market Research](https://www.marketresearch.com)
+
+[Innovación.cl](http://www.innovacion.cl)
 
 [BetaList](https://betalist.com)
 
