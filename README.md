@@ -87,6 +87,9 @@ Derechos, leyes y tratados de la Union Europea
 
 [Ley Chile](https://www.leychile.cl/Consulta/homebasico)
 
+## Páginas de Interés o Divulgación
+
+[TED](https://www.ted.com/#/recommendation)
 
 ## Páginas de Personas Destacadas
 
