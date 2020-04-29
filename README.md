@@ -36,11 +36,10 @@ Repositorio de papers y documentos de la Universidad de Chile
 [Journal of Technology Managment & Innovation](https://www.jotmi.org/index.php/GT/index):
 Revista de Innovación de la UAH (Universidad Alberto Hurtado)
 
-[Google Scholar](https://scholar.google.com)
-
-
 [SciELO](https://scielo.org/es/): 
 Libreria científica online
+
+[Google Scholar](https://scholar.google.com)
 
 
 ## Páginas de Patentes
@@ -50,8 +49,6 @@ Marcas o Patentes a nivel mundial.
 
 [WIPO](https://www.wipo.int/portal/en/index.html):
 World Intellectual Property Organization is the global forum for intellectual property (IP) services, policy, information and cooperation. We are a self-funding agency of the United Nations, with 193 member states.
-
-[Google Patents](https://patents.google.com)
 
 [INAPI](https://www.inapi.cl): 
 Instituto Nacional de Propiedad Industrial. Solicitudes de Patentes en Chile
@@ -68,6 +65,8 @@ Industrial Property Digital Library, Japan.
 [FPO](http://www.freepatentsonline.com):
 Patentes gratuitas online.
 
+[Google Patents](https://patents.google.com)
+
 ## Páginas del Mercado y de Emprendimientos
 
 [Market Research](https://www.marketresearch.com)
@@ -78,11 +77,15 @@ Patentes gratuitas online.
 
 [Singularity University](https://su.org)
 
+[Google Startup](https://startup.google.com/intl/es/)
+
 
 ## Pagínas juridicas
 
 [UE-Lex](https://eur-lex.europa.eu/homepage.html?locale=es):
 Derechos, leyes y tratados de la Union Europea
+
+[Ley Chile](https://www.leychile.cl/Consulta/homebasico)
 
 
 ## Páginas de Personas Destacadas
