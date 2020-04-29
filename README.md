@@ -1,4 +1,4 @@
-# Recursos Utiles para la Investigación  🔎
+# Recursos Útiles para la Investigación  🔎
 
 ## Libros en general  
 [Archive](https://archive.org/details/texts?&sort=-downloads&page=2):
