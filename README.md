@@ -90,7 +90,8 @@ Leyes Chilenas
 
 ## Páginas de Interés o Divulgación
 
-[TED](https://www.ted.com/#/recommendation)
+[TED](https://www.ted.com/#/recommendation):
+Charlas de interés de expertos sobre distintas temáticas.
 
 ## Páginas de Personas Destacadas
 
