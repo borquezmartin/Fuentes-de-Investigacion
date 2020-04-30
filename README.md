@@ -1,6 +1,6 @@
 # Recursos Útiles para la Investigación  🔎
 
-## Libros en general  
+## [Libros en general](https://github.com/borquezmartin/Fuentes-de-Investigacion/wiki/Libros-en-general)
 >[Archive](https://archive.org/details/texts?&sort=-downloads&page=2):  
 Libros electronicos, textos, articulos, etc. (Liberados después durante la pandemia del Covid-19)
 
