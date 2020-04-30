@@ -95,7 +95,8 @@ Charlas de interés de expertos sobre distintas temáticas.
 
 ## Páginas de Personas Destacadas
 
->[Bill Gates](https://www.gatesnotes.com)
+>[Bill Gates](https://www.gatesnotes.com)  
+Co-Fundador de Microsoft
 
 > [Dame Ellen MacArthur](https://www.ellenmacarthurfoundation.org)   
 Una de las mayores impulsoras de la Economía Circular
