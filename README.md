@@ -95,5 +95,7 @@ Charlas de interés de expertos sobre distintas temáticas.
 
 ## Páginas de Personas Destacadas
 
+[Bill Gates](https://www.gatesnotes.com)
+
 [Dan Ariely](http://danariely.com/):
 Investigador de la psicología del comportamiento económico.
