@@ -97,5 +97,8 @@ Charlas de interés de expertos sobre distintas temáticas.
 
 >[Bill Gates](https://www.gatesnotes.com)
 
+> [Dame Ellen MacArthur] (https://www.ellenmacarthurfoundation.org)   
+Una de las mayores impulsoras de la Economía Circular
+
 >[Dan Ariely](http://danariely.com/):  
 Investigador de la psicología del comportamiento económico.
