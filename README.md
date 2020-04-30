@@ -27,16 +27,16 @@ Pirate website in the world to provide mass and public access to tens of million
 >[Science Direct](https://www.sciencedirect.com):  
 Libreria online de Ciencias Físicas e Ingeniería, Ciencias de la Vida, Ciencias de la Salud y Ciencias Sociales
 
->[Repositorio UC](https://repositorio.uc.cl): 
+>[Repositorio UC](https://repositorio.uc.cl):   
 Repositorio de papers y documentos de la Pontificia Universidad Católica
 
->[Repositorio UCH](http://repositorio.uchile.cl): 
+>[Repositorio UCH](http://repositorio.uchile.cl):   
 Repositorio de papers y documentos de la Universidad de Chile
 
->[Journal of Technology Managment & Innovation](https://www.jotmi.org/index.php/GT/index). 
+>[Journal of Technology Managment & Innovation](https://www.jotmi.org/index.php/GT/index):   
 Revista de Innovación de la UAH (Universidad Alberto Hurtado)
 
->[SciELO](https://scielo.org/es/):  
+>[SciELO](https://scielo.org/es/):    
 Libreria científica online
 
 >[Google Scholar](https://scholar.google.com)
@@ -44,13 +44,13 @@ Libreria científica online
 
 ## Páginas de Patentes
 
->[The Lens](https://www.lens.org):   
+>[The Lens](https://www.lens.org):     
 Marcas o Patentes a nivel mundial.
 
->[WIPO](https://www.wipo.int/portal/en/index.html): 
+>[WIPO](https://www.wipo.int/portal/en/index.html):  
 World Intellectual Property Organization is the global forum for intellectual property (IP) services, policy, information and cooperation. We are a self-funding agency of the United Nations, with 193 member states.
 
->[INAPI](https://www.inapi.cl):  
+>[INAPI](https://www.inapi.cl):    
 Instituto Nacional de Propiedad Industrial. Solicitudes de Patentes en Chile
 
 >[USPTO](https://www.uspto.gov): 
