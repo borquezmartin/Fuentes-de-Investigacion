@@ -11,6 +11,9 @@ Libros, articulos científicos, revistas, etc.
 >[Lectulandia](https://www.lectulandia.co)  
 Libros en formato EPUB y PDF.
 
+>[InfoLibros](https://infolibros.org)   
+Selección de libros, sobretodo introductorios, de distintas temáticas. Todos disponibles en pdf
+
 
 ## Revistas tecnológicas
 >[MIT Technology Review](https://www.technologyreview.com/)
